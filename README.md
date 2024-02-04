@@ -39,26 +39,26 @@ Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/
 > [Angular 17 Form Validation example (Reactive Forms)](https://www.bezkoder.com/angular-17-form-validation/)
 
 Fullstack with Node:
-> [Angular 16 + Node Express + MySQL example](https://www.bezkoder.com/angular-16-node-js-express-mysql/)
+> [Angular 17 + Node Express + MySQL example](https://www.bezkoder.com/angular-17-node-js-express-mysql/)
 
-> [Angular 16 + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-16-node-js-express-postgresql/)
+> [Angular 17 + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-17-node-js-express-postgresql/)
 
-> [Angular 16 + Node Express + MongoDB example](https://www.bezkoder.com/angular-16-node-js-express-mongodb/)
+> [Angular 17 + Node Express + MongoDB example](https://www.bezkoder.com/angular-17-node-js-express-mongodb/)
 
-> [Angular 16 + Node Express: File upload example](https://www.bezkoder.com/angular-16-node-express-file-upload/)
+> [Angular 17 + Node Express: File upload example](https://www.bezkoder.com/angular-17-node-express-file-upload/)
 
 > [Angular 17 + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-17-jwt-auth/)
 
 Fullstack with Spring Boot:
-> [Angular 16 + Spring Boot example](https://www.bezkoder.com/spring-boot-angular-16-crud/)
+> [Angular 17 + Spring Boot example](https://www.bezkoder.com/spring-boot-angular-17-crud/)
 
-> [Angular 16 + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-16-mysql/)
+> [Angular 17 + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-17-mysql/)
 
-> [Angular 16 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-16-postgresql/)
+> [Angular 17 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-17-postgresql/)
 
-> [Angular 16 + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-16-mongodb/)
+> [Angular 17 + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-17-mongodb/)
 
-> [Angular 16 + Spring Boot: File upload example](https://www.bezkoder.com/angular-16-spring-boot-file-upload/)
+> [Angular 17 + Spring Boot: File upload example](https://www.bezkoder.com/angular-17-spring-boot-file-upload/)
 
 > [Angular 17 + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-17-spring-boot-jwt-auth/)
 
